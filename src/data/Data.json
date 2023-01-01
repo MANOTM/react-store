@@ -1,0 +1,162 @@
+[
+  {
+    "idP": "HKjk2",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672413302/src/product-1.jpg_wckjqx.png",
+    "ProductName": "Buttons tweed blazer",
+    "price": "41.2",
+    "size": "XXL",
+    "stock": 42,
+    "genre": "woman",
+    "type": "old"
+  },
+  {
+    "idP": "FGhje1",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672413274/src/product-6.jpg_vnfgag.png",
+    "ProductName": "Facilis quidem dolorum ",
+    "price": "50.10",
+    "size": "M",
+    "stock": 48,
+    "genre": "woman",
+    "type": "old"
+  },
+  {
+    "idP": "Lmjh0",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672413274/src/product-3.jpg_pfbbmo.png",
+    "ProductName": "Suam illum deleniti",
+    "price": "30.3",
+    "size": "XXXL",
+    "stock": 59,
+    "genre": "woman",
+    "type": "old"
+  },
+  {
+    "idP": "Hhnd00",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672413270/src/product-5.jpg_s7v1lz.png",
+    "ProductName": "Consectetur adipisicingr",
+    "price": "27.0",
+    "size": "S",
+    "stock": 20,
+    "genre": "men",
+    "type": "old"
+  },
+  {
+    "idP": "lj_J3",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672413265/src/product-2.jpg_gukt80.png",
+    "ProductName": "Deserunt ea quos",
+    "price": "98.0",
+    "size": "XL",
+    "stock": 87,
+    "genre": "men",
+    "type": "old"
+  },
+  {
+    "idP": "kj3",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672413263/src/product-4.jpg_dlucst.png",
+    "ProductName": "Laudantium exercitatione",
+    "price": "22.0",
+    "size": "XXL",
+    "stock": 30,
+    "genre": "men",
+    "type": "old"
+  },
+  {
+    "idP": "HKjkjd",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672413266/src/product-8.jpg_enurf0.png",
+    "ProductName": "Metallic earrings",
+    "price": "74.0",
+    "size": "XL",
+    "stock": 20,
+    "genre": "men",
+    "type": "old"
+  },
+  {
+    "idP": "HKj_ukdede2",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672413302/src/product-1.jpg_wckjqx.png",
+    "ProductName": "Flap cross-body bag",
+    "price": "28.0",
+    "size": "M",
+    "stock": 93,
+    "genre": "woman",
+    "type": "old"
+  },
+  {
+    "idP": "FfyG_oe1",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672509313/src/arrival4.png_mifxe7.png",
+    "ProductName": "Cross-body Jumper",
+    "price": "30.10",
+    "size": "M",
+    "stock": 64,
+    "genre": "men",
+    "type": "old"
+  },
+  {
+    "idP": "_hje1",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672509303/src/arrival7.png_bjhe3u.png",
+    "ProductName": "Metallic earringsr",
+    "price": "40.1",
+    "size": "M",
+    "stock": 48,
+    "genre": "men",
+    "type": "old"
+  },
+  {
+    "idP": "Ff_yGhje1",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672509303/src/arrival3.png_q5tg7s.png",
+    "ProductName": "Consectetur adipisicingr",
+    "price": "30.8",
+    "size": "M",
+    "stock": 80,
+    "genre": "men",
+    "type": "old"
+  },
+  {
+    "idP": "71_Ghje1",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672509306/src/arrival2.png_tm8e5v.png",
+    "ProductName": "Knitted Jumper",
+    "price": "20.10",
+    "size": "M",
+    "stock": 60,
+    "genre": "woman",
+    "type": "old"
+  },
+  {
+    "idP": "de_4",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672413294/src/new1_eob9tx.png",
+    "ProductName": "Hoodie & Sweatshirt",
+    "price": "41.0",
+    "size": "XXL",
+    "stock": 56,
+    "genre": 4,
+    "type": "new"
+  },
+  {
+    "idP": "JH_h4",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672413282/src/new2_tlhzs7.png",
+    "ProductName": "Pants & Jackets",
+    "price": "56.0",
+    "size": "XXL",
+    "stock": 42,
+    "genre": 5,
+    "type": "new"
+  },
+  {
+    "idP": "ef",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672413268/src/collection2_z0ir3d.png",
+    "ProductName": "Coats & Coats Sets",
+    "price": "34.0",
+    "size": "XXL",
+    "stock": 93,
+    "genre": 3,
+    "type": "new"
+  },
+  {
+    "idP": "dvdfre",
+    "src": "https://res.cloudinary.com/dbroegym2/image/upload/v1672413299/src/new3_ngyfb1.png",
+    "ProductName": "Winter collection",
+    "price": "22.0",
+    "size": "XXL",
+    "stock": 22,
+    "genre": 4,
+    "type": "new"
+  }
+]
